@@ -27,12 +27,14 @@ The key to change is to focus all your energy not on fighting the old, but on bu
 </i>
 </p>
 
-_Not available for React JS
-
 ---
+
+Not available for React JS
+
+
 > ## Demo
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between">
 <img src='./demo.gif' width='200' />
 <img src='./1.jpeg' width='200' />
 <img src='./2.jpeg' width='200' />
@@ -43,13 +45,13 @@ _Not available for React JS
 ### Yarn
 
 ```
-  yarn add react-native-animation-parallax
+  yarn add rn-animation-parallax
 ```
 
 ### Npm
 
 ```
-  npm i react-native-animation-parallax
+  npm i rn-animation-parallax
 ```
 
 ## Code Example
@@ -57,7 +59,7 @@ _Not available for React JS
 ```javascript
 import React from 'react';
 import { Button, Text } from 'react-native';
-import { Parallax, toggleAnimation } from 'react-native-animation-parallax';
+import { Parallax, toggleAnimation } from 'rn-animation-parallax';
 
 export default function Home() {
   return (
