@@ -1,0 +1,22 @@
+{
+  "name": "react-native-animation-parallax",
+  "version": "1.0.0",
+  "description": "An Simple Parallax Animation to React Native",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelxsilva/react-native-animation-parallax.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "react",
+    "animation"
+  ],
+  "author": "Marcelo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelxsilva/react-native-animation-parallax/issues"
+  },
+  "homepage": "https://github.com/marcelxsilva/react-native-animation-parallax#readme"
+}
