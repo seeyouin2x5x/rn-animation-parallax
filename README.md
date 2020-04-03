@@ -27,12 +27,16 @@ The key to change is to focus all your energy not on fighting the old, but on bu
 </i>
 </p>
 
-_Not available for React JS_
+_Not available for React JS
 
 ---
 > ## Demo
 
+<div style="display: flex">
 <img src='./demo.gif' width='200' />
+<img src='./1.jpeg' width='200' />
+<img src='./2.jpeg' width='200' />
+</div>
 
 > ## Instalation
 
